@@ -1,7 +1,8 @@
 geojson-snarf
 =============
 
-shell function for quickly visualizing geojson data using gists
+Here is a shell function for quickly gist'ing a remote url.
+
 
 ```
 function geogist(){
@@ -14,3 +15,7 @@ function geogist(){
 }
 
 ```
+
+
+`geogoogle.js` will search google for filetype:geojson and spit out the top 50 results.  
+
